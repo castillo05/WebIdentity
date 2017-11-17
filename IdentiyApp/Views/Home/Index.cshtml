@@ -40,12 +40,14 @@
             </tr>
             @foreach (var item in Model)
             {
+               
                 <tr>
                     <td><a href="~/negocio/Index/@item.Id">@item.Name</a></td>
                     <td>@item.LastName</td>
                     <td>@item.Email</td>
                     <td>@item.Cedula</td>
                 </tr>
+               
 
             }
             </table>

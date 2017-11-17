@@ -41,8 +41,7 @@
             <tbody>
                 @foreach (var c in Model.negocio)
                 {
-                    if (c.id_cont_negocio == Model.Id && User.IsInRole("User"))
-                    {
+                   
                         <tr>
                             <td>@Html.ActionLink(c.nombre_n, "crudnegocio", new { param1 = Model.Id, id = c.id_n }, new { @class = "" })</td>
 
