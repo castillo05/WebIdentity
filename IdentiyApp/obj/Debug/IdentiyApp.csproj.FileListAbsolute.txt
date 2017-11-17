@@ -1,0 +1,381 @@
+c:\users\jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\obj\Debug\IdentiyApp.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\csc.exe
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\vbc.exe
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\IdentiyApp.dll.config
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\IdentiyApp.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\IdentiyApp.pdb
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Antlr3.Runtime.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\EntityFramework.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Model.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Newtonsoft.Json.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Owin.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Persistence.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Service.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.Helpers.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.Mvc.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.Optimization.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.Razor.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.WebPages.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\WebGrease.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Model.pdb
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Persistence.pdb
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Service.pdb
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.Helpers.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.Mvc.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.Optimization.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.Razor.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.WebPages.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Antlr3.Runtime.pdb
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Newtonsoft.Json.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\EntityFramework.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\EntityFramework.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\obj\Debug\IdentiyApp.dll
+C:\Users\Jorge\documents\visual studio 2015\Projects\IdentiyApp\IdentiyApp\obj\Debug\IdentiyApp.pdb
+F:\IdentiyApp\IdentiyApp\obj\Debug\IdentiyApp.csprojResolveAssemblyReference.cache
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.csprojResolveAssemblyReference.cache
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\csc.exe
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\vbc.exe
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\IdentiyApp.dll.config
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\IdentiyApp.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\IdentiyApp.pdb
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Antlr3.Runtime.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\EntityFramework.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Model.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Newtonsoft.Json.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Owin.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Persistence.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Service.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.Helpers.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.Mvc.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.Optimization.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.Razor.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.WebPages.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\WebGrease.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Model.pdb
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Persistence.pdb
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Service.pdb
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.Helpers.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.Mvc.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.Optimization.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.Razor.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.WebPages.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Antlr3.Runtime.pdb
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Newtonsoft.Json.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\EntityFramework.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\System.Web.Razor.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\EntityFramework.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.dll
+C:\Users\Recaudacion-C\Documents\Visual Studio 2015\Projects\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.pdb
+F:\WebIdentity\IdentiyApp\bin\roslyn\csc.exe
+F:\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WebIdentity\IdentiyApp\bin\roslyn\System.Collections.Immutable.dll
+F:\WebIdentity\IdentiyApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\WebIdentity\IdentiyApp\bin\roslyn\vbc.exe
+F:\WebIdentity\IdentiyApp\bin\roslyn\VBCSCompiler.exe
+F:\WebIdentity\IdentiyApp\bin\roslyn\VBCSCompiler.exe.config
+F:\WebIdentity\IdentiyApp\bin\IdentiyApp.dll.config
+F:\WebIdentity\IdentiyApp\bin\IdentiyApp.dll
+F:\WebIdentity\IdentiyApp\bin\IdentiyApp.pdb
+F:\WebIdentity\IdentiyApp\bin\Antlr3.Runtime.dll
+F:\WebIdentity\IdentiyApp\bin\EntityFramework.dll
+F:\WebIdentity\IdentiyApp\bin\EntityFramework.SqlServer.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Google.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Web.Infrastructure.dll
+F:\WebIdentity\IdentiyApp\bin\Model.dll
+F:\WebIdentity\IdentiyApp\bin\Newtonsoft.Json.dll
+F:\WebIdentity\IdentiyApp\bin\Owin.dll
+F:\WebIdentity\IdentiyApp\bin\Persistence.dll
+F:\WebIdentity\IdentiyApp\bin\Service.dll
+F:\WebIdentity\IdentiyApp\bin\System.Web.Helpers.dll
+F:\WebIdentity\IdentiyApp\bin\System.Web.Mvc.dll
+F:\WebIdentity\IdentiyApp\bin\System.Web.Optimization.dll
+F:\WebIdentity\IdentiyApp\bin\System.Web.Razor.dll
+F:\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Deployment.dll
+F:\WebIdentity\IdentiyApp\bin\System.Web.WebPages.dll
+F:\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Razor.dll
+F:\WebIdentity\IdentiyApp\bin\WebGrease.dll
+F:\WebIdentity\IdentiyApp\bin\Model.pdb
+F:\WebIdentity\IdentiyApp\bin\Persistence.pdb
+F:\WebIdentity\IdentiyApp\bin\Service.pdb
+F:\WebIdentity\IdentiyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WebIdentity\IdentiyApp\bin\System.Web.Helpers.xml
+F:\WebIdentity\IdentiyApp\bin\System.Web.Mvc.xml
+F:\WebIdentity\IdentiyApp\bin\System.Web.Optimization.xml
+F:\WebIdentity\IdentiyApp\bin\System.Web.Razor.xml
+F:\WebIdentity\IdentiyApp\bin\System.Web.WebPages.xml
+F:\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Deployment.xml
+F:\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Razor.xml
+F:\WebIdentity\IdentiyApp\bin\Antlr3.Runtime.pdb
+F:\WebIdentity\IdentiyApp\bin\Newtonsoft.Json.xml
+F:\WebIdentity\IdentiyApp\bin\EntityFramework.xml
+F:\WebIdentity\IdentiyApp\bin\EntityFramework.SqlServer.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Google.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\WebIdentity\IdentiyApp\bin\es\System.Web.Helpers.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\System.Web.Mvc.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\System.Web.Optimization.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\System.Web.Razor.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\EntityFramework.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\EntityFramework.SqlServer.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.csprojResolveAssemblyReference.cache
+F:\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.dll
+F:\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.pdb
+F:\WebIdentity\IdentiyApp\bin\Common.dll
+F:\WebIdentity\IdentiyApp\bin\Common.pdb
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\csc.exe
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\vbc.exe
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\IdentiyApp.dll.config
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\IdentiyApp.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\IdentiyApp.pdb
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Antlr3.Runtime.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Common.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\EntityFramework.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Model.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Newtonsoft.Json.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Owin.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Persistence.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Service.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.Helpers.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.Mvc.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.Optimization.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.Razor.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.WebPages.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\WebGrease.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Common.pdb
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Model.pdb
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Persistence.pdb
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Service.pdb
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Newtonsoft.Json.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.Helpers.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.Mvc.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.Optimization.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.Razor.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.WebPages.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Antlr3.Runtime.pdb
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\EntityFramework.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\System.Web.Razor.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\EntityFramework.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.csprojResolveAssemblyReference.cache
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.dll
+C:\Users\Recaudacion-C\Documents\WebIdentity\IdentiyApp\obj\Debug\IdentiyApp.pdb

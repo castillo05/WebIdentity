@@ -1,0 +1,101 @@
+﻿@model Model.ModelContext.negocio
+@{
+    ViewBag.Title = "";
+
+    List<Model.ModelContext.AspNetUsers> Users = ViewBag.ListarUser;
+    List<Model.ModelContext.negocio> Listar_N = ViewBag.ListarNegocio;
+    List<Model.ModelContext.Mes_Pago> ListarMes = ViewBag.ListarMes;
+    List<Model.ModelContext.meses> Listarmeses = ViewBag.Listarmeses;
+    List<Model.ModelContext.pagos> Listarpagos = ViewBag.ListerPagos;
+}
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="~/">Negocio</a></li>
+    <li class="breadcrumb-item active">@(Model.id_n > 0 ? Model.nombre_n : "Nuevo Registro")</li>
+</ol>
+<h2>Nuevo Negocio-</h2>
+@using (Html.BeginForm("Guardar", "Negocio", FormMethod.Post, new { id = "frm-negocio" }))
+{
+    @Html.HiddenFor(x => x.id_n)
+    <div class="panel panel-default">
+        <div class="panel-heading"> Informacion del Negocio</div>
+        <div class="panel-body">
+            <div class="form-group">
+
+                <label>Nombre: </label>
+                @Html.TextBoxFor(x => x.nombre_n, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.nombre_n, null, new { @class = "label label-danger" })
+            </div>
+            <div class="form-group">
+
+                <label>Numero de Matricula: </label>
+                @Html.TextBoxFor(x => x.num_mat, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.num_mat, null, new { @class = "label label-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label>Seleccione un Contribuyente</label>
+            <select class="form-control" name="Curso_id">
+                @foreach (var c in Users)
+                {
+                    if (c.Id == Model.id_cont_negocio)
+                    {
+                        <option selected="selected" value="@c.Id">@(c.Name + " " + c.LastName) </option>
+                    }
+                    else
+                    {
+                        <option value="@c.Id">@(c.Name + " " + c.LastName)</option>
+                    }
+
+
+                }
+            </select>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading"> Pagos Realizados</div>
+        <div class="panel-body">
+
+            <div class="list-group">
+                @foreach (var c in Model.pagos)
+                {
+                    var tomado = false;
+                    foreach (var item in Listar_N)
+                    {
+                        foreach (var item2 in ListarMes)
+                        {
+                            foreach (var item3 in Listarmeses)
+                            {
+                                if (c.id_negocio == item.id_n)
+                                {
+                                    if (c.id_pago == item2.id_pago_mes)
+                                    {
+                                        if (item2.id_mes_pago == item3.id_mes)
+                                        {
+                                            tomado = true;
+
+                                            <h4 class="list-group-item-heading">@item3.Mes </h4>
+                                                        <p class="list-group-item-text">@c.concepto</p>
+
+                                        }
+
+                                    }
+                                }
+                            }
+
+                        }
+
+                    }
+                }
+
+
+
+
+            </div>
+        </div>
+    </div>
+    <input data-ajax="true" data-confirm="¿Esta seguro de guardar este registro?" class="btn btn-info" type="submit" value="Guardar" />
+
+}
+

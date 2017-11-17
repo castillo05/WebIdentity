@@ -1,0 +1,40 @@
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Persistence.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Persistence.pdb
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\obj\Debug\Persistence.csprojResolveAssemblyReference.cache
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\obj\Debug\Persistence.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\obj\Debug\Persistence.pdb
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Persistence.dll.config
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\EntityFramework.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\EntityFramework.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Model.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\bin\Debug\Model.pdb
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\obj\Debug\Persistence.Migrations.initialize.resources
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Persistence\obj\Debug\Persistence.csproj.GenerateResource.Cache
+F:\WebIdentity\Persistence\bin\Debug\Persistence.dll.config
+F:\WebIdentity\Persistence\bin\Debug\Persistence.dll
+F:\WebIdentity\Persistence\bin\Debug\Persistence.pdb
+F:\WebIdentity\Persistence\bin\Debug\EntityFramework.dll
+F:\WebIdentity\Persistence\bin\Debug\EntityFramework.SqlServer.dll
+F:\WebIdentity\Persistence\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\WebIdentity\Persistence\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\WebIdentity\Persistence\bin\Debug\Model.dll
+F:\WebIdentity\Persistence\bin\Debug\Model.pdb
+F:\WebIdentity\Persistence\bin\Debug\EntityFramework.xml
+F:\WebIdentity\Persistence\bin\Debug\EntityFramework.SqlServer.xml
+F:\WebIdentity\Persistence\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\WebIdentity\Persistence\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\WebIdentity\Persistence\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\WebIdentity\Persistence\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\WebIdentity\Persistence\obj\Debug\Persistence.csprojResolveAssemblyReference.cache
+F:\WebIdentity\Persistence\obj\Debug\Persistence.dll
+F:\WebIdentity\Persistence\obj\Debug\Persistence.pdb
+F:\WebIdentity\Persistence\obj\Debug\Persistence.Migrations.Initialize.resources
+F:\WebIdentity\Persistence\obj\Debug\Persistence.csproj.GenerateResource.Cache

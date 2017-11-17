@@ -1,0 +1,10 @@
+F:\WebIdentity\Common\bin\Debug\Common.dll
+F:\WebIdentity\Common\bin\Debug\Common.pdb
+F:\WebIdentity\Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\WebIdentity\Common\bin\Debug\Newtonsoft.Json.dll
+F:\WebIdentity\Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\WebIdentity\Common\bin\Debug\Newtonsoft.Json.xml
+F:\WebIdentity\Common\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\WebIdentity\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\WebIdentity\Common\obj\Debug\Common.dll
+F:\WebIdentity\Common\obj\Debug\Common.pdb

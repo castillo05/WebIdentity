@@ -1,0 +1,64 @@
+﻿
+@model Model.ModelContext.AspNetUsers
+
+@{
+    ViewBag.Title = Model.Name + " ";
+    List<Model.ModelContext.negocio> negocio = ViewBag._negocio;
+}
+
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="~/">Alumnos</a></li>
+    <li class="breadcrumb-item active">@(Model.Cedula + " ")</li>
+</ol>
+
+    @Html.ActionLink("Nuevo Negocio", "crudnegocio", new {param1=Model.Id}, new { @class = "btn btn-danger" })
+
+<div class="panel panel-default">
+    <div class="panel-heading">Información personal</div>
+    <div class="panel-body">
+        <dl class="dl-horizontal">
+            <dt>Nombre</dt>
+            <dd>@Model.Name</dd>
+            <dt>Apellido</dt>
+            <dd>@Model.LastName</dd>
+
+        </dl>
+    </div>
+</div>
+
+@if (Model.negocio.Count > 0)
+{
+    <div class="card">
+        <div class="card-header">Negocios Matriculados</div>
+        <table class="table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>Nombre</th>
+                    <th style="width:60px;">N° de Matricula</th>
+                    <th style="width: 6%; text-align:right;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var c in Model.negocio)
+                {
+                    if (c.id_cont_negocio == Model.Id && User.IsInRole("User"))
+                    {
+                        <tr>
+                            <td>@Html.ActionLink(c.nombre_n, "crudnegocio", new { param1 = Model.Id, id = c.id_n }, new { @class = "" })</td>
+
+                            <td>@c.num_mat</td>
+
+                            <td><a href="~/negocio/index/@c.id_n" class="btn btn-dark pull-right">Editar</a></td>
+                        </tr>
+                    }
+
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <p>No hay cursos asignados a este alumno.</p>
+}
+

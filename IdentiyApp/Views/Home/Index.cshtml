@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Model.ModelContext.AspNetUsers>
+
+@{
+    ViewBag.Title = "Home Page";
+
+
+
+}
+@if (Request.IsAuthenticated)
+{
+    <div class="jumbotron">
+        <h1>Alcaldia Municipal de El Sauce</h1>
+        <p class="lead">Hola, Mucho gusto de que estes con nosotros @CurrentUser.Get.Name</p>
+        <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    </div>
+
+    using (Html.BeginForm())
+    {
+       
+       <div class="form-group">
+           <label>Nombres: </label>
+           <input class="form-control" type="text" name="name" value="@ViewBag.Name" />
+           <input class="btn btn-default" type="submit" value="Filtrar" />
+       </div>
+       
+
+
+        <table class="table table-striped">
+
+            <tr>
+
+                <td>Nombres</td>
+
+                <td>Apellidos</td>
+
+                <td>Correo</td>
+
+                <td>N° de Cedula</td>
+
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><a href="~/negocio/Index/@item.Id">@item.Name</a></td>
+                    <td>@item.LastName</td>
+                    <td>@item.Email</td>
+                    <td>@item.Cedula</td>
+                </tr>
+
+            }
+            </table>
+
+    }
+
+    
+            }
+            else
+            {
+            <div class="jumbotron">
+                <h1>Alcaldia Municipal de El Sauce</h1>
+                <p class="lead">Sistema de Recaudacion En Linea</p>
+                <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+            </div>
+            }
+
+
+
+           
+<script>
+   function LlamarJsonDelServidor(){
+    $.ajax({
+        type: "POST",
+        traditional: true,
+        async: false,
+        cache: false,
+        url: '@Url.Action("LlamarJson","Home")',
+        context: document.body,
+        data: { },
+        success: function (result) {
+            $("#resultado").html('');
+            for (var i = 0; i < result.length; i++) {
+                $("#resultado").append("<li> "+result[i].Nombre+ " " + result[i].Apellido +" </li>");
+            }
+        },
+        error: function (xhr) {
+            //debugger;
+            console.log(xhr.responseText);
+            alert("Error has occurred..");
+        }
+    });
+}
+</script>

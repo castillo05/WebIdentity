@@ -1,0 +1,93 @@
+﻿
+
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+@{
+    ViewBag.Title = "";
+
+    
+    List<Model.ModelContext.negocio> Listar_N = ViewBag.ListarNegocio;
+   
+
+}
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="~/">Negocio</a></li>
+    <li class="breadcrumb-item active">Nuevo Registro</li>
+</ol>
+<h2>Nuevo Negocio-</h2>
+@using (Html.BeginForm("Guardar_Pago", "Negocio", FormMethod.Post, new { id = "frm-pago" }))
+{
+   
+    <div class="panel panel-default">
+        <div class="panel-heading"> Informacion del Negocio</div>
+        <div class="panel-body">
+            <div class="form-group">
+
+                <label>Concepto: </label>
+                <input type="text" class="form-control" placeholder="Concepto de Pago" required />
+            </div>
+
+
+            <div class="form-group">
+                <label>Negocio</label>
+                <select class="form-control" name="Negocio_id">
+                    @foreach (var n in Listar_N)
+                    {
+                        //Fr4agmento para recibir el parametro enviado desde otra vista con ActionLink
+                        int id_n = Convert.ToInt32(Request.QueryString["id_n"]);
+                        /****/
+                        if (n.id_n == id_n)
+                        {
+                            <option selected="selected" value="@n.id_n">@(n.nombre_n) </option>
+                        }
+                        else
+                        {
+                            <option value="@n.id_n">@(n.nombre_n) </option>
+                        }
+
+
+
+
+
+                    }
+                </select>
+            </div>
+
+
+            <div class="form-group">
+
+                <label>Fecha de Pago: </label>
+               <input type="datetime"  id="MyDate" class="form-control" required />
+            </div>
+
+            <div class="form-group">
+                <label>Colector</label>
+                <select class="form-control" name="UserId">
+                    <option selected value="@Common.CurrentUser.Get.UserId">@(Common.CurrentUser.Get.Name+" "+Common.CurrentUser.Get.LastName)</option>
+                </select>
+               
+            </div>
+
+        </div>
+
+
+       
+
+
+       
+
+
+
+    </div>
+   
+    <input data-ajax="true" data-confirm="¿Esta seguro de guardar este registro?" class="btn btn-info" type="submit" value="Guardar" />
+
+}
+
+<script type="text/javascript">
+    $(function () {
+        $("#MyDate").datepicker();
+    });
+</script>

@@ -1,0 +1,68 @@
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Service.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Service.pdb
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\obj\Debug\Service.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\obj\Debug\Service.pdb
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Service.dll.config
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\EntityFramework.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.Owin.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Model.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Newtonsoft.Json.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Owin.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Persistence.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Model.pdb
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Persistence.pdb
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\EntityFramework.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.Owin.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\Newtonsoft.Json.xml
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\recaudacion-c\documents\visual studio 2015\Projects\WebIdentity\Service\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\WebIdentity\Service\bin\Debug\Service.dll.config
+F:\WebIdentity\Service\bin\Debug\Service.dll
+F:\WebIdentity\Service\bin\Debug\Service.pdb
+F:\WebIdentity\Service\bin\Debug\EntityFramework.dll
+F:\WebIdentity\Service\bin\Debug\EntityFramework.SqlServer.dll
+F:\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\WebIdentity\Service\bin\Debug\Microsoft.Owin.dll
+F:\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+F:\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.dll
+F:\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\WebIdentity\Service\bin\Debug\Model.dll
+F:\WebIdentity\Service\bin\Debug\Newtonsoft.Json.dll
+F:\WebIdentity\Service\bin\Debug\Owin.dll
+F:\WebIdentity\Service\bin\Debug\Persistence.dll
+F:\WebIdentity\Service\bin\Debug\Model.pdb
+F:\WebIdentity\Service\bin\Debug\Persistence.pdb
+F:\WebIdentity\Service\bin\Debug\EntityFramework.xml
+F:\WebIdentity\Service\bin\Debug\EntityFramework.SqlServer.xml
+F:\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\WebIdentity\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\WebIdentity\Service\bin\Debug\Microsoft.Owin.xml
+F:\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.xml
+F:\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+F:\WebIdentity\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\WebIdentity\Service\bin\Debug\Newtonsoft.Json.xml
+F:\WebIdentity\Service\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\WebIdentity\Service\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\WebIdentity\Service\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\WebIdentity\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\WebIdentity\Service\obj\Debug\Service.dll
+F:\WebIdentity\Service\obj\Debug\Service.pdb

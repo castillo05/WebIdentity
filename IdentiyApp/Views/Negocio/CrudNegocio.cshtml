@@ -1,0 +1,282 @@
+﻿@model Model.ModelContext.negocio
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+@{
+    ViewBag.Title = "";
+
+    List<Model.ModelContext.AspNetUsers> Users = ViewBag.ListarUser;
+    List<Model.ModelContext.negocio> Listar_N = ViewBag.ListarNegocio;
+    List<Model.ModelContext.Mes_Pago> ListarMes = ViewBag.ListarMes;
+    List<Model.ModelContext.meses> Listarmeses = ViewBag.Listarmeses;
+    List<Model.ModelContext.pagos> Listarpagos = ViewBag.ListerPagos;
+    List<Model.ModelContext.actividad> ListarAct = ViewBag.ListarActividad;
+    List<Model.ModelContext.direccion_negocio> Listar_D = ViewBag.Listar_Direccion;
+    List<Model.ModelContext.formatos> Listar_F = ViewBag.ListarFormatos;
+    List<Model.ModelContext.tributos> Listar_T = ViewBag.ListarTributos;
+
+}
+
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="~/Negocio/Index/@Model.id_cont_negocio">Negocio</a></li>
+    <li class="breadcrumb-item active">@(Model.id_n > 0 ? Model.nombre_n : "Nuevo Registro")</li>
+</ol>
+<h2>Nuevo Negocio-</h2>
+@using (Html.BeginForm("Guardar", "Negocio", FormMethod.Post, new { id = "frm-negocio" }))
+{
+    @Html.HiddenFor(x => x.id_n, new {@name="Id_N" })
+    <div class="panel panel-default">
+        <div class="panel-heading"> Informacion del Negocio</div>
+        <div class="panel-body">
+
+            <div class="form-group">
+
+                <label>Nombre Negocio: </label>
+                @Html.TextBoxFor(x => x.nombre_n, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.nombre_n, null, new { @class = "label label-danger" })
+            </div>
+
+            <div class="form-group">
+
+                <label>Numero de Matricula: </label>
+                @Html.TextBoxFor(x => x.num_mat, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.num_mat, null, new { @class = "label label-danger" })
+            </div>
+
+
+
+            <div class="form-group">
+                <label>Contribuyente</label>
+                <select class="form-control" name="id_cont_negocio" id="speed">
+                    @foreach (var c in Users)
+                {
+                    string u = Request.QueryString["param1"];
+                    if (c.Id == u)
+                    {
+                            <option selected="selected" value="@c.Id">@(c.Name + " " + c.LastName) </option>
+                        }
+                        else
+                        {
+                            <option value="@c.Id">@(c.Name + " " + c.LastName)</option>
+                        }
+
+
+                    }
+                </select>
+            </div>
+
+
+
+
+            <div class="form-group">
+                <label>Actividad Economica</label>
+                <select class="form-control" name="id_actividad">
+                    @foreach (var act in ListarAct)
+                {
+                    if (act.id_actividad == Model.id_actividad)
+                    {
+                            <option selected="selected" value="@act.id_actividad">@(act.actividad1) </option>
+                        }
+                        else
+                        {
+                            <option value="@act.id_actividad">@(act.actividad1) </option>
+                        }
+
+
+                    }
+                </select>
+            </div>
+
+
+            <div class="form-group">
+                <label>Direccion del Negocio</label>
+                <select class="form-control" name="id_direccion">
+                    @foreach (var dir in Listar_D)
+                {
+                    if (dir.id_direccion == Model.id_direccion)
+                    {
+                            <option selected="selected" value="@dir.id_direccion">@(dir.zona) </option>
+                        }
+                        else
+                        {
+                            <option value="@dir.id_direccion">@(dir.zona) </option>
+                        }
+
+
+                    }
+                </select>
+            </div>
+
+
+
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading"> Pagos Realizados</div>
+        <div class="panel-body">
+
+
+
+
+
+            <div class="list-group">
+                @foreach (var p in Model.pagos)
+                {
+
+
+                    <h4 class="list-group-item-dark active">@p.concepto</h4>
+
+                        <p class="list-group-item-text">Fecha de Pago : @p.fecha</p>
+                        <hr />
+                }
+            </div>
+            @if (Model.id_n > 0)
+            {
+                //Enviar parametro para Vistas *Realizar_pagos*
+                //@Html.ActionLink("Realizar Pagos","Realizar_Pagos", new {Model.id_n},new { @class = "btn btn-danger"})
+                <!-- Trigger the modal with a button -->
+                <button type="button" class="btn btn-danger btn-lg" data-id="@Model.id_n" data-toggle="modal" data-target="#myModal">Realizar Pago</button>
+            }
+           
+            
+        </div>
+    </div>
+    <input data-ajax="true" data-confirm="¿Esta seguro de guardar este registro?" class="btn btn-info" type="submit" value="Guardar" />
+
+}
+
+
+<!-- Trigger the modal with a button
+<button type="button" class="btn btn-info btn-lg" data-id="//Model.id_n" data-toggle="modal" data-target="#myModal">Open Modal</button>
+ -->
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">@Model.nombre_n</h4>
+                
+            </div>
+            <div class="modal-body">
+                <h2>Realizando Pagos</h2>
+                @using (Html.BeginForm("Guardar_Pago", "Negocio", FormMethod.Post, new { id = "frm-pago" }))
+                {
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading"> Pagos </div>
+                        <div class="panel-body">
+                            <div class="form-group">
+
+                                <label>Concepto: </label>
+                                <input type="text" name="concepto" class="form-control" placeholder="Concepto de Pago" required />
+                            </div>
+
+
+                            <div class="form-group">
+                                
+
+                               <input type="hidden" name="id_negocio" id="id_negocio" value="@Model.id_n" />
+                            </div>
+
+
+
+                            <div class="form-group">
+
+                                <label>Fecha de Pago: </label>
+                                <input type="datetime" id="MyDate" name="fecha" class="form-control" required />
+                            </div>
+
+                            <div class="form-group">
+                                <select class="form-control" name="tipo_pago" id="tipo_pago">
+                                    <option value="1">Tarjeta de Credito</option>
+                                    <option value="2">Efectivo</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Colector</label>
+                                <select class="form-control" name="id_colector" id="id_colector">
+                                    <option selected value="@Common.CurrentUser.Get.UserId">@(Common.CurrentUser.Get.Name + " " + Common.CurrentUser.Get.LastName)</option>
+                                </select>
+
+                            </div>
+
+
+
+                            <div class="form-group">
+                                <label>Formatos</label>
+                                <select class="form-control" name="id_formato" id="id_formato">
+                                    @foreach (var f in Listar_F)
+                                    {
+
+                                        <option value="@f.id_formato">@(f.nombre_f) </option>
+
+
+
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Tributos</label>
+                                <select class="form-control" name="id_tributo" id="id_tributo">
+                                    @foreach (var t in Listar_T)
+                                    {
+
+                                        <option value="@t.id_tributo">@(t.nombre_t) </option>
+
+
+
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Monto</label>
+                                <input type="text" name="monto" id="monto" class="form-control" />
+                            </div>
+
+                            <div class="form-group">
+                                <label>Total Pago</label>
+                                <input type="text" name="total_pago" id="total_pago" class="form-control" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <input data-ajax="true" data-confirm="¿Esta seguro de guardar este registro?" class="btn btn-info" type="submit" value="Guardar" />
+
+                }
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+  $( function() {
+    $( "#speed" ).selectmenu();
+
+    $( "#files" ).selectmenu();
+
+    $( "#number" )
+      .selectmenu()
+      .selectmenu( "menuWidget" )
+        .addClass( "overflow" );
+
+    $( "#salutation" ).selectmenu();
+  } );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        $("#MyDate").datepicker();
+    });
+</script>
